@@ -1,4 +1,13 @@
-![Nozomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiaa-75&show_icons=false&theme=transparent&rank_icon=github&include_all_commits=true&hide=contribs,issues)
+### Hello there 👋
+
+#### A **Student** by day ☼ and an **Open-Source Contributor** by night ☾
+
+Currently focused on learning and building my portfolio;<br>
+Exploring new technologies and system administration;<br>
+
+- ⚙️ I use daily: `.java`, `.html`, `.css`, `.js`, `.vue`, `.py`, `.csv`
+- 🌍 I'm mostly active within **Linux** communities
+- 💬 `ping` me about **design**, **java**, **development**, **linux**
 
 <!---
 nozomi-75/nozomi-75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
