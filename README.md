@@ -5,7 +5,7 @@
 Currently focused on learning and building my portfolio;<br>
 Exploring new technologies and system administration;<br>
 
-- ⚙️ I use daily: `.java`, `.html`, `.css`, `.js`, `.vue`, `.py`, `.csv`
+- ⚙️ I use regularly: `opencode`, `.java`, `.html`, `.css`, `.js`, `.py`, `.csv`
 - 🌍 I'm mostly active within **Linux** communities
 - 💬 `ping` me about **design**, **java**, **development**, **linux**
 
